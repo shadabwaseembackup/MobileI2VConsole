@@ -8,7 +8,7 @@
              Title="Result"
              BackgroundColor="{StaticResource PageBackgroundColor}">
 
-    <Grid RowDefinitions="*,Auto,Auto" Padding="20">
+    <Grid RowDefinitions="*,Auto,Auto" Padding="20"> 
 
         <!-- Video Player -->
         <Border Grid.Row="0"
