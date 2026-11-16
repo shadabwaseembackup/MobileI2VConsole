@@ -18,6 +18,7 @@
     <!-- Surface / Background -->
     <Color x:Key="SurfaceDark">#1C1B1F</Color>
     <Color x:Key="Surface">#1A1A2E</Color>
+<Color x:Key="PageBackgroundColor">#1A1A2E</Color>
     <Color x:Key="SurfaceLight">#2D2D44</Color>
     <Color x:Key="SurfaceContainerLow">#1E1E32</Color>
     <Color x:Key="SurfaceContainerHigh">#2A2A3E</Color>
