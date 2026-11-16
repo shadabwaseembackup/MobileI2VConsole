@@ -6,7 +6,7 @@
              x:Class="MobileI2VConsole.Views.ResultPage"
              x:DataType="vm:ResultViewModel"
              Title="Result"
-             BackgroundColor="{StaticResource PageBackgroundColor}">
+             BackgroundColor="{StaticResource Surface}">
 
     <Grid RowDefinitions="*,Auto,Auto" Padding="20"> 
 
